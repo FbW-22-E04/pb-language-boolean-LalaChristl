@@ -2,7 +2,7 @@
 
 console.log('1.1:', 3 == '3', 'answer is number 2');
 console.log('1.2:', 3 === '3', 'answer is number 7');
-console.log('1.3:', 'answer is number 12');
+console.log('1.3:', 'answer is number 9');
 
 // .2 Not
 
